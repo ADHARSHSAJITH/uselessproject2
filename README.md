@@ -40,8 +40,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1GK5EkyCkUz6hWqw5TpVoh_8z1Hc2oXlp?usp=drive_link
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
