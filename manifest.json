@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Hello Extension",
+  "version": "1.0",
+  "description": "Says Hello when visiting any website",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
